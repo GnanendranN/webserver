@@ -61,9 +61,6 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ## OUTPUT:
 
-### Server Output
-![serveroutput](serveroutput.jpg)
-
 ### Client Output
 ![clientoutput](clientoutput.jpg)
 
